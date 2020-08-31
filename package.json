@@ -1,0 +1,17 @@
+{
+  "name": "nodejs_api",
+  "version": "1.0.0",
+  "description": "belajar buat API dengan NodeJs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "latest",
+    "request": "latest",
+    "ejs": "latest"
+  }
+}
