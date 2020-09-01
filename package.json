@@ -12,6 +12,8 @@
   "dependencies": {
     "express": "latest",
     "request": "latest",
-    "ejs": "latest"
+    "ejs": "latest",
+    "mysql": "latest",
+    "body-parser": "latest"
   }
 }
